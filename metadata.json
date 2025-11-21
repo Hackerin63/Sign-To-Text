@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SignLens",
+  "description": "A real-time AI-powered sign language detector and translator using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
